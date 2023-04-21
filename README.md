@@ -1,4 +1,6 @@
-# Montessori_AI_Homeschool_Mobile**Project Proposal: Montessori AI Mobile - Homeschooling App**
+# Montessori AI Homeschool Mobile
+
+**Project Proposal: Montessori AI Mobile - Homeschooling App**
 
 **Introduction:**
 
